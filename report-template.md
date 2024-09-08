@@ -1,5 +1,5 @@
-# credit-risk-classification Report
-Module 20
+# Module 12 Report Template
+
 ## Overview of the Analysis
 
 various machine learning models were evaluared to predict loan status from the dataset. The primary goal was to assess the effectiveness of different models in classifying loans as either high-risk or healthy.
@@ -68,7 +68,7 @@ Precision is also important to avoid false positives (healthy loans misclassifie
 Recommendation:
 
 **XGBoost is recommended due to its overall superior performance, particularly in terms of F1-Score, which indicates a good balance between precision and recall.
-AdaBoost is also a strong contender and could be considered depending on specific needs or constraints.
+AdaBoost is also a strong contender and could be considered depending on specific needs or constraints.**
 
 ## References: 
 **REFERENCES**
